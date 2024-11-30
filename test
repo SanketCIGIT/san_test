@@ -2,4 +2,5 @@
 
 echo "This is main branch"
 
-echo "This is branch 1"
+echo "This is branch 1&2 confitct resolved"
+
